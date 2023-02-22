@@ -3,7 +3,7 @@
 - 👀 I’m interested in HTML, CSS, JS and Python
 - 🌱 I did MCA under BPUT, Odisha and learnt various Online Courses.
 - ⌨️ Currently practicing HTML, CSS, JS, Bootstrap, Python, R, C, DBMS, SQL.
-- 📫 You can reach me on mail: ckp3398@gmail.com
+- 📫 You can reach me on linkedin or Discord.
 - 📥 Discord ID: MrChamp#4100
 
 <!---
