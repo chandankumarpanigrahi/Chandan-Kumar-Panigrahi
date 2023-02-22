@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Chandan Kumar Panigrahi
+- 😚 I'm a Junior Software Engineer at Bhubaneswar.
 - 👀 I’m interested in HTML, CSS, JS and Python
-- 🌱 I’m a Student in MCA under BPUT, Odisha and currently learning various Online Courses.
-- ⌨️ Currently practicing Python, R, C, DBMS, SQL.
+- 🌱 I did MCA under BPUT, Odisha and learnt various Online Courses.
+- ⌨️ Currently practicing HTML, CSS, JS, Bootstrap, Python, R, C, DBMS, SQL.
 - 📫 You can reach me on mail: ckp3398@gmail.com
 - 📥 Discord ID: MrChamp#4100
 
