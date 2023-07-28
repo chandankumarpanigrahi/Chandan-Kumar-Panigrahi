@@ -16,7 +16,7 @@
 ## Profile View Counter
 ![Profile View Counter](https://komarev.com/ghpvc/?username=chandankumarpanigrahi)
 
-<a href="https://github.com/jstrieb/github-stats">
+<a href="https://github.com/chandankumarpanigrahi/github-stats">
 <img src="https://github.com/chandankumarpanigrahi/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
 <img src="https://github.com/chandankumarpanigrahi/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
 <img src="https://github.com/chandankumarpanigrahi/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" />
