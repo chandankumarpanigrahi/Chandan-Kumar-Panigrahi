@@ -16,12 +16,6 @@
 ## Profile View Counter
 ![Profile View Counter](https://komarev.com/ghpvc/?username=chandankumarpanigrahi)
 
-<a href="https://github.com/chandankumarpanigrahi/github-stats">
-<img src="https://github.com/chandankumarpanigrahi/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://github.com/chandankumarpanigrahi/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
-<img src="https://github.com/chandankumarpanigrahi/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" />
-<img src="https://github.com/chandankumarpanigrahi/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" />
-</a>
 <!---
 chandankumarpanigrahi/chandankumarpanigrahi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
