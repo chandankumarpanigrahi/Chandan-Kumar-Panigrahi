@@ -6,6 +6,9 @@
 - 📫 You can reach me on linkedin or Discord.
 - 📥 Discord ID: MrChamp#4100
 
+## Our Social Links
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=normal&logo=linkedin&logoColor=white)](https://linkedin.com/in/VishwaGauravIn)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=normal&logo=Twitter&logoColor=white)](https://twitter.com/VishwaGauravIn)
 
 ## GitHub Stats
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=chandankumarpanigrahi&show_icons=true)
