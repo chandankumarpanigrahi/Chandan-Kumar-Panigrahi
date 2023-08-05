@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Chandan Kumar Panigrahi
+- [👋](https://res.cloudinary.com/dyvcg2scr/raw/upload/v1691241458/chandan_tqx0va.css) Hi, I’m Chandan Kumar Panigrahi
 - 😚 I'm a Junior Software Engineer at Bhubaneswar.
 - 👀 I’m interested in HTML, CSS, JS and Python
 - 🌱 I did MCA under BPUT, Odisha and learnt various Online Courses.
@@ -18,6 +18,7 @@
 
 ## Profile View Counter
 ![Profile View Counter](https://komarev.com/ghpvc/?username=chandankumarpanigrahi)
+
 
 <!---
 chandankumarpanigrahi/chandankumarpanigrahi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
