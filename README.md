@@ -11,7 +11,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=normal&logo=Twitter&logoColor=white)](https://twitter.com/mrchampofficial)
 
 ## GitHub Stats
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/chandankumarpanigrahi?cardType=github&theme=tokyonight&preferLogin=false)](https://git.io/awesome-stats-card)
+![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/chandankumarpanigrahi?cardType=github&theme=tokyonight&preferLogin=false)
 
 ## Roadmaps Stats
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64c387a2e244f2be6a48e2f5?variant=dark)](https://roadmap.sh)
