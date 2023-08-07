@@ -14,7 +14,7 @@
 ![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/chandankumarpanigrahi?cardType=github&theme=tokyonight&preferLogin=false)
 
 ## Roadmaps Stats
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64c387a2e244f2be6a48e2f5?variant=dark)](https://roadmap.sh)
+![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64c387a2e244f2be6a48e2f5?variant=dark)
 
 ## Most Used Languages
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=chandankumarpanigrahi&theme=blue-green)
