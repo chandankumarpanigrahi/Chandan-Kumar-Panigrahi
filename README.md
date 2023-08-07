@@ -14,7 +14,7 @@
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=chandankumarpanigrahi&show_icons=true)
 
 ## Roadmaps Stats
-<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/64c387a2e244f2be6a48e2f5?variant=dark" alt="roadmap.sh"/></a>
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64c387a2e244f2be6a48e2f5?variant=dark)](https://roadmap.sh)
 
 ## Most Used Languages
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=chandankumarpanigrahi&theme=blue-green)
