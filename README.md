@@ -1,6 +1,6 @@
 - [👋](https://res.cloudinary.com/dyvcg2scr/raw/upload/v1691241458/chandan_tqx0va.css) Hi, I’m Chandan Kumar Panigrahi
 - 😚 I'm a Junior Software Engineer at Bhubaneswar.
-- 👀 I’m interested in HTML, CSS, JS and Python
+- 👀 I’m interested in HTML, CSS, SCSS, JS and Python
 - 🌱 I did MCA under BPUT, Odisha and learnt various Online Courses.
 - ⌨️ Currently practicing HTML, CSS, JS, Bootstrap, Python, R, C, DBMS, SQL.
 - 📫 You can reach me on linkedin or Discord.
