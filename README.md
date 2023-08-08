@@ -1,5 +1,7 @@
 ![ckp](https://github.com/chandankumarpanigrahi/Chandan-Kumar-Panigrahi/assets/91644974/9c4921b4-7763-40ba-b9ff-e412978aa65e)
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4D61AA&width=435&lines=Eat+-+Sleep+-+Code+-+Repeat" alt="Typing SVG" /></a>
+
 <h1 align="center">Hi 👋, I'm Chandan Kumar Panigrahi</h1>
 <h3 align="center">A passionate Software Engineer from Bhubaneswar, India</h3>
 
