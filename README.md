@@ -31,7 +31,7 @@
 
 <div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chandankumarpanigrahi&show_icons=true&locale=en&layout=compact" alt="chandankumarpanigrahi" /></div>
 
-<a href="http://www.github.com/chandankumarpanigrahi"><img src="https://github-readme-stats.vercel.app/api?username=chandankumarpanigrahi&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="chandankumarpanigrahi's GitHub stats" /></a>
+<a href="http://www.github.com/chandankumarpanigrahi"><img src="https://github-readme-stats.vercel.app/api?username=chandankumarpanigrahi&show_icons=true&hide=&count_private=true&title_color=0c1117&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="chandankumarpanigrahi's GitHub stats" /></a>
 
 <div><img src="https://api.roadmap.sh/v1-badge/wide/64c387a2e244f2be6a48e2f5?variant=dark" alt="roadmap.sh"/></div>
 
