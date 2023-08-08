@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandankumarpanigrahi&label=Profile%20views&color=0e75b6&style=flat" alt="chandankumarpanigrahi" /> </p>
 
-[<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chandankumarpanigrahi" alt="chandankumarpanigrahi" /></a> </p>](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub)
+[![trophy](https://github-profile-trophy.vercel.app/?username=chandankumarpanigrahi&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 - [👋](https://res.cloudinary.com/dyvcg2scr/raw/upload/v1691241458/chandan_tqx0va.css) Hi, I’m Chandan Kumar Panigrahi
