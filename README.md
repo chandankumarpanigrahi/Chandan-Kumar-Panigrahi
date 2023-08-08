@@ -33,7 +33,8 @@
 
 <div>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chandankumarpanigrahi&show_icons=true&locale=en" alt="chandankumarpanigrahi" /></div>
 
-[roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64c387a2e244f2be6a48e2f5?variant=dark)
+<div><img src="https://api.roadmap.sh/v1-badge/wide/64c387a2e244f2be6a48e2f5?variant=dark" alt="roadmap.sh"/></div>
+
 <div><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chandankumarpanigrahi&" alt="chandankumarpanigrahi" /></div>
 
 
