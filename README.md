@@ -1,4 +1,4 @@
-![ezgif com-crop](https://github.com/chandankumarpanigrahi/Chandan-Kumar-Panigrahi/assets/91644974/d8cfeb2f-8aaf-49a4-83b6-aac5c555203e)
+![ckp](https://github.com/chandankumarpanigrahi/Chandan-Kumar-Panigrahi/assets/91644974/36faf6e0-0759-41f9-afb8-cefbe90c3517)
 
 - [👋](https://res.cloudinary.com/dyvcg2scr/raw/upload/v1691241458/chandan_tqx0va.css) Hi, I’m Chandan Kumar Panigrahi
 - 😚 I'm a Junior Software Engineer at Bhubaneswar.
