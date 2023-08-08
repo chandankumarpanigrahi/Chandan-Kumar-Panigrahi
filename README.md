@@ -18,8 +18,8 @@
 - 🌱 I’m currently learning **Python, React and Angular**
 - 📫 You can reach me on linkedin, Twitter or Discord.
 - 📥 Discord ID: MrChamp#4100
-- 👨‍💻 All of my projects are available at [https://github.com/chandankumarpanigrahi/Chandan-Kumar-Panigrahi](https://github.com/chandankumarpanigrahi/Chandan-Kumar-Panigrahi)
-- 📝 I regularly write articles on [https://chandankumarpanigrahi.medium.com/](https://chandankumarpanigrahi.medium.com/)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/chandankumarpanigrahi/Chandan-Kumar-Panigrahi)
+- 📝 I regularly write articles on [Medium](https://chandankumarpanigrahi.medium.com/)
 - 💬 Ask me about **HTML, CSS, SCSS, Bootstrap**
 
 <h3 align="left">Connect with me:</h3>
