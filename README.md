@@ -31,6 +31,7 @@
 
 <div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chandankumarpanigrahi&show_icons=true&locale=en&layout=compact" alt="chandankumarpanigrahi" /></div>
 
+
 <a href="https://github.com/chandankumarpanigrahi" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandankumarpanigrahi&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0c1117&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <div><img src="https://api.roadmap.sh/v1-badge/wide/64c387a2e244f2be6a48e2f5?variant=dark" alt="roadmap.sh"/></div>
