@@ -11,6 +11,7 @@
 |     Institute Admin Dashboard    |      HTML, CSS, JS, Bootstrap     |  ![image](https://github.com/chandankumarpanigrahi/chandankumarpanigrahi/assets/91644974/67fc800c-e69e-4d8b-b4d2-e6df17ed7bde) | [LINK](https://chandankumarpanigrahi.github.io/IMS/) |
 |     Full Website with Login Page    |      HTML, CSS, SCSS, JS, Bootstrap     |  ![image](https://github.com/chandankumarpanigrahi/chandankumarpanigrahi/assets/91644974/379f974b-6d24-476a-8d89-1c60c7b3a18f) | [LINK](https://mrchamp.netlify.app/) |
 |     Windows 10 Update Loading Page   |      HTML, CSS, JS     | ![image](https://github.com/chandankumarpanigrahi/chandankumarpanigrahi/assets/91644974/548d7840-05d5-4a84-89ca-7101c84dd51f)  | [LINK](https://chandan-p-002.netlify.app/) |
-|     YouTube Clone   |      HTML, CSS, Bootstrap, JS     |  INCOMPLETE  | [LINK](https://chandankumarpanigrahi.github.io/YouTube/) |
+|     YouTube Clone   |      HTML, CSS, Bootstrap, JS     |  ![image](https://github.com/chandankumarpanigrahi/chandankumarpanigrahi/assets/91644974/87dc99fd-7cf8-4048-a3c2-18e0e3a2df6f)
+  | [LINK](https://chandankumarpanigrahi.github.io/YouTube/) |
 
 </div>
