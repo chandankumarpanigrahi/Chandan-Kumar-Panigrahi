@@ -20,15 +20,15 @@
 </tbody></table>
 
 - [👋](https://res.cloudinary.com/dyvcg2scr/raw/upload/v1691241458/chandan_tqx0va.css) Hi, I’m Chandan Kumar Panigrahi
-- 😚 I'm a Junior Software Engineer at Bhubaneswar.
+- 😚 I'm a Software Engineer at Bhubaneswar. As well as I'ma a Web Designer.
 - 👀 I’m interested in HTML, CSS, SCSS, JS and Python
 - 🌱 I did MCA under BPUT, Odisha and learnt various Online Courses.
-- 🌱 I’m currently learning **Python, React and Angular**
+- 🌱 I’m currently learning **Python, React and ExpressJS**
 - 📫 You can reach me on linkedin, Twitter or Discord.
 - 📥 Discord ID: MrChamp#4100
 - 👨‍💻 All of my projects are available at [Github](project.md)
 - 📝 I regularly write articles on [Medium](https://chandankumarpanigrahi.medium.com/)
-- 💬 Ask me about **HTML, CSS, SCSS, Bootstrap**
+- 💬 Ask me about **HTML, CSS, JS, Bootstrap**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
